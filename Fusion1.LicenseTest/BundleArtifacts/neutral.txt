@@ -1,0 +1,1 @@
+MainPackage=D:\Source\QLicense\Fusion1.LicenseTest\bin\AnyCPU\Release\Fusion1.LicenseTestPackage_1.0.0.0_AnyCPU.appx

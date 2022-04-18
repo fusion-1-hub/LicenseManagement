@@ -1,0 +1,9 @@
+jPMOy3TFZ1
+
+String label = "\uFF95\uFFAF\uFFB2\uFFB0\uFF86\uFFCC\uFFAB\uFFB9\uFFA5\uFFCE";
+for (int Pnjvg = 0, SKXtE = 0; Pnjvg < 10; Pnjvg++)
+{
+        SKXtE = label[Pnjvg];
+        SKXtE = ~SKXtE;
+        label = label.Substring(0, Pnjvg) + (char)(SKXtE & 0xFFFF) + label.Substring(Pnjvg + 1);
+}

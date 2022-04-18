@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Fusion1.License.Generator": {
+      "commandName": "Project",
+      "commandLineArgs": "-u LBYZU6-MI12ZV-7HHY1L-59CBP1 -a Fusion1.FileServerHost -c 5 -f license.lic"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Fusion1.License.Entity\Fusion1.License.Entity.csproj" />
+    <ProjectReference Include="..\Fusion1.License\Fusion1.License.csproj" />
+    <ProjectReference Include="..\Fusion1.Resource.Allocation\Fusion1.License.Validation.csproj" />
+  </ItemGroup>
+
+</Project>

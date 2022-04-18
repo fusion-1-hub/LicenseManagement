@@ -1,0 +1,114 @@
+﻿<Mappings><Entry OldName="System.Runtime.CompilerServices.NullableAttribute.NullableFlags" NewName="A.&#x16;.NullableFlags" />
+<Entry OldName="System.Runtime.CompilerServices.NullableContextAttribute.Flag" NewName="A.&#xA;.Flag" />
+<Entry OldName="Fusion1.Resman.BASE36._charList" NewName="A.&#x3;.&#x1A;" />
+<Entry OldName="Fusion1.Resman.BASE36._charArray" NewName="A.&#x3;.&#x16;" />
+<Entry OldName="Fusion1.Resman.Resource.&lt;AppName&gt;k__BackingField" NewName="Fusion1.Resman.Resource.&#x1A;" />
+<Entry OldName="Fusion1.Resman.Resource.&lt;UUID&gt;k__BackingField" NewName="Fusion1.Resman.Resource.&#x16;" />
+<Entry OldName="Fusion1.Resman.Resource.&lt;Connections&gt;k__BackingField" NewName="Fusion1.Resman.Resource.&#xA;" />
+<Entry OldName="Fusion1.Resman.Resource.&lt;CreateDateTime&gt;k__BackingField" NewName="Fusion1.Resman.Resource.&#x3;" />
+<Entry OldName="Fusion1.Resman.LicenseEntity.&lt;AppName&gt;k__BackingField" NewName="Fusion1.Resman.LicenseEntity.&#x1A;" />
+<Entry OldName="Fusion1.Resman.LicenseEntity.&lt;UUID&gt;k__BackingField" NewName="Fusion1.Resman.LicenseEntity.&#x16;" />
+<Entry OldName="Fusion1.Resman.LicenseEntity.&lt;CreateDateTime&gt;k__BackingField" NewName="Fusion1.Resman.LicenseEntity.&#x3;" />
+<Entry OldName="Fusion1.Resman.Properties.Resources.resourceMan" NewName="A.&#x14;.&#x1A;" />
+<Entry OldName="Fusion1.Resman.Properties.Resources.resourceCulture" NewName="A.&#x14;.&#x16;" />
+<Entry OldName="Microsoft.CodeAnalysis.EmbeddedAttribute..ctor()" NewName="A.&#x1A;..ctor()" />
+<Entry OldName="System.Runtime.CompilerServices.NullableAttribute..ctor(Byte )" NewName="A.&#x16;..ctor(Byte &#x1A;)" />
+<Entry OldName="System.Runtime.CompilerServices.NullableAttribute..ctor(Byte[] )" NewName="A.&#x16;..ctor(Byte[] &#x1A;)" />
+<Entry OldName="System.Runtime.CompilerServices.NullableContextAttribute..ctor(Byte )" NewName="A.&#xA;..ctor(Byte &#x1A;)" />
+<Entry OldName="Fusion1.Resman.BASE36..ctor()" NewName="A.&#x3;..ctor()" />
+<Entry OldName="Fusion1.Resman.BASE36..cctor()" NewName="A.&#x3;..cctor()" />
+<Entry OldName="Fusion1.Resman.BASE36.Decode(String input)" NewName="A.&#x3;.&#xA;(String &#x1A;)" />
+<Entry OldName="Fusion1.Resman.BASE36.Encode(UInt64 input)" NewName="A.&#x3;.&#x3;(UInt64 &#x1A;)" />
+<Entry OldName="Fusion1.Resman.BASE36.Reverse(String s)" NewName="A.&#x3;.&#x8;(String &#x1A;)" />
+<Entry OldName="Fusion1.Resman.Extensions.DoExtraValidationExt(String UUID, String AppName, String&amp; validationMsg)" NewName="A.&#x8;.&#x1A;(String &#x1A;, String &#x16;, String&amp; &#xA;)" />
+<Entry OldName="Fusion1.Resman.Extensions.GenerateUIDExt(String appName)" NewName="A.&#x8;.&#x16;(String &#x1A;)" />
+<Entry OldName="Fusion1.Resman.Extensions.ParseResourceString(Type recType, String recString, Status&amp; recStatus, String&amp; validationMsg)" NewName="A.&#x8;.&#xA;(Type &#x1A;, String &#x16;, Status&amp; &#xA;, String&amp; &#x3;)" />
+<Entry OldName="Fusion1.Resman.Extensions.GetProcessorId()" NewName="A.&#x8;.&#x3;()" />
+<Entry OldName="Fusion1.Resman.Extensions.GetMotherboardID()" NewName="A.&#x8;.&#x8;()" />
+<Entry OldName="Fusion1.Resman.Extensions.GetDiskVolumeSerialNumber()" NewName="A.&#x8;.&#x14;()" />
+<Entry OldName="Fusion1.Resman.Extensions.VerifyXml(XmlDocument Doc, RSA Key)" NewName="A.&#x8;.&#x1B;(XmlDocument &#x1A;, RSA &#x16;)" />
+<Entry OldName="Fusion1.Resman.Properties.Resources..ctor()" NewName="A.&#x14;..ctor()" />
+<Entry OldName="Fusion1.Resman.Properties.Resources.get_ResourceManager()" NewName="A.&#x14;.get_ResourceManager()" />
+<Entry OldName="Fusion1.Resman.Properties.Resources.get_Culture()" NewName="A.&#x14;.get_Culture()" />
+<Entry OldName="Fusion1.Resman.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.&#x14;.set_Culture(CultureInfo value)" />
+<Entry OldName="Fusion1.Resman.Properties.Resources.get_c()" NewName="A.&#x14;.get_c()" />
+<Entry OldName="Microsoft.CodeAnalysis.EmbeddedAttribute" NewName="A.&#x1A;" />
+<Entry OldName="System.Runtime.CompilerServices.NullableAttribute" NewName="A.&#x16;" />
+<Entry OldName="System.Runtime.CompilerServices.NullableContextAttribute" NewName="A.&#xA;" />
+<Entry OldName="Fusion1.Resman.BASE36" NewName="A.&#x3;" />
+<Entry OldName="Fusion1.Resman.Extensions" NewName="A.&#x8;" />
+<Entry OldName="Fusion1.Resman.Properties.Resources" NewName="A.&#x14;" />
+<Assembly Name="Fusion1.Resman"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="Microsoft.CodeAnalysis.EmbeddedAttribute" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Type Token="33554436" Name="System.Runtime.CompilerServices.NullableAttribute" />
+<Method Token="100663300" Name=".ctor" Variables="this;;" ParamCnt="2" />
+<Method Token="100663301" Name=".ctor" Variables="this;;" ParamCnt="2" />
+<Field Token="67108865" Name="NullableFlags" />
+<Type Token="33554437" Name="System.Runtime.CompilerServices.NullableContextAttribute" />
+<Method Token="100663302" Name=".ctor" Variables="this;;" ParamCnt="2" />
+<Field Token="67108866" Name="Flag" />
+<Type Token="33554438" Name="Fusion1.Resman.BASE36" />
+<Method Token="100663303" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663304" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663305" Name="Decode" Variables="input;V_0;V_1;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663306" Name="Encode" Variables="input;V_0;" ParamCnt="1" />
+<Method Token="100663307" Name="Reverse" Variables="s;" ParamCnt="1" />
+<Field Token="67108867" Name="_charList" />
+<Field Token="67108868" Name="_charArray" />
+<Type Token="33554439" Name="Fusion1.Resman.Extensions" />
+<Method Token="100663308" Name="DoExtraValidationExt" Variables="UUID;AppName;validationMsg;V_0;" ParamCnt="3" />
+<Method Token="100663309" Name="GenerateUIDExt" Variables="appName;V_0;V_1;V_2;V_3;V_4;V_5;V_6;" ParamCnt="1" />
+<Method Token="100663310" Name="ParseResourceString" Variables="recType;recString;recStatus;validationMsg;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;" ParamCnt="4" />
+<Method Token="100663311" Name="GetProcessorId" Variables="V_0;V_1;V_2;" ParamCnt="0" />
+<Method Token="100663312" Name="GetMotherboardID" Variables="V_0;V_1;V_2;" ParamCnt="0" />
+<Method Token="100663313" Name="GetDiskVolumeSerialNumber" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663314" Name="VerifyXml" Variables="Doc;Key;V_0;" ParamCnt="2" />
+<Type Token="33554440" Name="Fusion1.Resman.Resman" />
+<Method Token="100663315" Name="GenerateUID" Variables="appName;" ParamCnt="1" />
+<Method Token="100663316" Name="ParseResourceString" Variables="recType;recString;recStatus;validationMsg;" ParamCnt="4" />
+<Type Token="33554441" Name="Fusion1.Resman.Resource" />
+<Method Token="100663317" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663318" Name="get_AppName" Variables="this;" ParamCnt="1" />
+<Method Token="100663319" Name="set_AppName" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663320" Name="get_UUID" Variables="this;" ParamCnt="1" />
+<Method Token="100663321" Name="set_UUID" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663322" Name="get_Connections" Variables="this;" ParamCnt="1" />
+<Method Token="100663323" Name="set_Connections" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663324" Name="get_CreateDateTime" Variables="this;" ParamCnt="1" />
+<Method Token="100663325" Name="set_CreateDateTime" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663326" Name="DoExtraValidation" Variables="this;validationMsg;" ParamCnt="2" />
+<Field Token="67108869" Name="&lt;AppName&gt;k__BackingField" />
+<Field Token="67108870" Name="&lt;UUID&gt;k__BackingField" />
+<Field Token="67108871" Name="&lt;Connections&gt;k__BackingField" />
+<Field Token="67108872" Name="&lt;CreateDateTime&gt;k__BackingField" />
+<Type Token="33554442" Name="Fusion1.Resman.LicenseEntity" />
+<Method Token="100663327" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663328" Name="get_AppName" Variables="this;" ParamCnt="1" />
+<Method Token="100663329" Name="set_AppName" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663330" Name="get_UUID" Variables="this;" ParamCnt="1" />
+<Method Token="100663331" Name="set_UUID" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663332" Name="get_CreateDateTime" Variables="this;" ParamCnt="1" />
+<Method Token="100663333" Name="set_CreateDateTime" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663334" Name="DoExtraValidation" Variables="this;validationMsg;" ParamCnt="2" />
+<Field Token="67108873" Name="&lt;AppName&gt;k__BackingField" />
+<Field Token="67108874" Name="&lt;UUID&gt;k__BackingField" />
+<Field Token="67108875" Name="&lt;CreateDateTime&gt;k__BackingField" />
+<Type Token="33554443" Name="Fusion1.Resman.Properties.Resources" />
+<Method Token="100663335" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663336" Name="get_ResourceManager" Variables="" ParamCnt="0" />
+<Method Token="100663337" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663338" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663339" Name="get_c" Variables="" ParamCnt="0" />
+<Field Token="67108876" Name="resourceMan" />
+<Field Token="67108877" Name="resourceCulture" />
+<Type Token="33554444" Name="Fusion1.Resman.Resman/Status" />
+<Field Token="67108878" Name="value__" />
+<Field Token="67108879" Name="UNDEFINED" />
+<Field Token="67108880" Name="VALID" />
+<Field Token="67108881" Name="INVALID" />
+<Field Token="67108882" Name="BROKEN" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663299" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>

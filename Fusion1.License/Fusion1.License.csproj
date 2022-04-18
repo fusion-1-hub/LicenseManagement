@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Fusion1.Hardware.Identification\Fusion1.Hardware.Identification.csproj" />
+    <ProjectReference Include="..\Fusion1.License.Entity\Fusion1.License.Entity.csproj" />
+  </ItemGroup>
+
+</Project>
